@@ -1,3 +1,6 @@
+Deployed Link 
+https://fasal-assignment-rbbf.onrender.com
+
 1. Install NodeJS
 2. Install MongoDB
 3. Clone this repo
